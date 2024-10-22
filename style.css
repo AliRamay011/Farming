@@ -9,7 +9,9 @@ body {
 
     font-family: "Karla", sans-serif;
 }
-
+.overflow{
+    overflow: hidden;
+}
 #good {
     background-color: #f2f4f5;
 }
